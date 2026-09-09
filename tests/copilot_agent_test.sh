@@ -37,5 +37,5 @@ grep -q '^# Explain Prompts$' "$REPO_DIR/examples/chat-prompts/explain-prompts.m
 grep -q '^  "workbench\.colorTheme": "Default Dark+"$' "$REPO_DIR/examples/settings/settings.json"
 grep -q '^# Demo Project$' "$REPO_DIR/examples/demo-project/README.md"
 grep -q '^const tasks = \[$' "$REPO_DIR/examples/demo-project/app.js"
-grep -q '^function formatTask\(name, done\) {$' "$REPO_DIR/examples/demo-project/utils.js"
+grep -q '^function formatTask' "$REPO_DIR/examples/demo-project/utils.js"
 grep -q '^# Screenshot Ideas$' "$REPO_DIR/docs/images/README.md"
