@@ -38,6 +38,8 @@ This repository now includes a few sample folders you can open directly in VS Co
 - `examples/chat-prompts/` for reusable prompt ideas
 - `examples/settings/` for sample VS Code settings and setup tips
 - `examples/demo-project/` for a tiny JavaScript project you can ask Copilot to explain or improve
+- `examples/html-demo/` for a tiny colorful HTML and CSS page you can restyle with Copilot
+- `examples/python-demo/` for a small Python script you can explain, extend, or refactor
 - `docs/images/` for screenshot notes and future demo images
 
 ## Use Copilot Chat in VS Code
@@ -79,6 +81,8 @@ You can configure Copilot from the standard VS Code settings interface or by edi
 - Create a new section with tips for using Copilot Chat.
 - Add a helper function to `examples/demo-project/utils.js`.
 - Refactor `examples/demo-project/app.js` to print a cleaner summary.
+- Change the card colors in `examples/html-demo/styles.css`.
+- Add a new command to `examples/python-demo/app.py`.
 
 ## Suggested Screenshots
 
