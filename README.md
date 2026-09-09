@@ -21,6 +21,7 @@ This project is designed as a simple starting point for practicing common Copilo
 - Clear steps for using Copilot Chat in VS Code
 - Recommended settings for inline suggestions and file support
 - Example prompts you can reuse in demos or practice sessions
+- Demo folders with sample files for editing, explaining, and configuring
 
 ## Quick Start
 
@@ -29,6 +30,15 @@ This project is designed as a simple starting point for practicing common Copilo
 3. Sign in to GitHub Copilot.
 4. Open Copilot Chat from the Activity Bar or Command Palette.
 5. Start asking questions about the repository and request small edits.
+
+## Demo Content
+
+This repository now includes a few sample folders you can open directly in VS Code while testing Copilot:
+
+- `examples/chat-prompts/` for reusable prompt ideas
+- `examples/settings/` for sample VS Code settings and setup tips
+- `examples/demo-project/` for a tiny JavaScript project you can ask Copilot to explain or improve
+- `docs/images/` for screenshot notes and future demo images
 
 ## Use Copilot Chat in VS Code
 
@@ -67,6 +77,8 @@ You can configure Copilot from the standard VS Code settings interface or by edi
 - Summarize the content of the current README.
 - Improve the wording of the setup instructions.
 - Create a new section with tips for using Copilot Chat.
+- Add a helper function to `examples/demo-project/utils.js`.
+- Refactor `examples/demo-project/app.js` to print a cleaner summary.
 
 ## Suggested Screenshots
 

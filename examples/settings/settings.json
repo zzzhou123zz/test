@@ -1,0 +1,9 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "markdown": true,
+    "plaintext": true
+  },
+  "workbench.colorTheme": "Default Dark+"
+}
